@@ -6,7 +6,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -20,7 +24,11 @@
     
     
     
+    
+    
     <description>PR TIMESから特定のキーワードを含む記事を提供します。</description>
+    
+    
     
     
     
@@ -34,7 +42,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -48,7 +60,11 @@
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000248.000005365.html</link>
+      
+      
       
       
       
@@ -66,14 +82,20 @@
       
       
       
+      
+      
       <pubDate>2023-10-07T23:40:01+09:00</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -87,6 +109,8 @@
       
       
       
+      
+      
       <title>ABEJA、LLMを実用的に活用しDXを推進する人材を育成するプログラム 「ABEJA LLM Business Camp」の第二回を11月21日（火）・28日（火）に開催</title>
       
       
@@ -94,7 +118,11 @@
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000143.000010628.html</link>
+      
+      
       
       
       
@@ -111,14 +139,20 @@
       
       
       
+      
+      
       <pubDate>2023-10-16T17:45:02+09:00</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -132,6 +166,8 @@
       
       
       
+      
+      
       <title>生成AIスキルを集中習得！３時間でキャリアが変わる【1DAY AI BOOT CAMP】始動！</title>
       
       
@@ -139,7 +175,11 @@
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000019.000117465.html</link>
+      
+      
       
       
       
@@ -157,14 +197,20 @@
       
       
       
+      
+      
       <pubDate>2023-10-17T13:27:16+09:00</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -178,6 +224,8 @@
       
       
       
+      
+      
       <title>カミナシ、「名古屋 Factory Innovation Week 2023」に出展</title>
       
       
@@ -185,7 +233,11 @@
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000078.000054269.html</link>
+      
+      
       
       
       
@@ -205,14 +257,20 @@
       
       
       
+      
+      
       <pubDate>2023-10-17T13:20:00+09:00</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -226,6 +284,8 @@
       
       
       
+      
+      
       <title>ChatGPTの爆発的進化！学習塾から大学入試まで、広がるAI活用と教育変化を解説【オンラインラーニングフォーラム2023】</title>
       
       
@@ -233,7 +293,11 @@
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000137.000004142.html</link>
+      
+      
       
       
       
@@ -254,14 +318,20 @@ AIによる劇的変化に対応するための具体的な方法
       
       
       
+      
+      
       <pubDate>2023-10-17T16:15:02+09:00</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -275,6 +345,8 @@ AIによる劇的変化に対応するための具体的な方法
       
       
       
+      
+      
       <title>【10月25日（水）～27日（金） 開催】AI×DXで切り開く開発の新時代、株式会社divxがJapan IT Week 秋に出展。企業や自治体が抱えるDX課題の即時相談会を実施。</title>
       
       
@@ -282,7 +354,11 @@ AIによる劇的変化に対応するための具体的な方法
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000042.000099905.html</link>
+      
+      
       
       
       
@@ -303,14 +379,20 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <pubDate>2023-10-17T13:00:00+09:00</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -324,6 +406,8 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <title>物流センターの自動化に向けた取り組み　東大阪ロジスティクスセンターで「ラピュタPA-AMR XL」導入・稼働開始</title>
       
       
@@ -331,7 +415,11 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000001440.000031422.html</link>
+      
+      
       
       
       
@@ -351,14 +439,20 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <pubDate>2023-10-17T13:00:00+09:00</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -372,6 +466,8 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <title>かんぽ生命、法人向け生成AI活用プラットフォーム「Graffer AI Studio」を導入</title>
       
       
@@ -379,7 +475,11 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000051.000038525.html</link>
+      
+      
       
       
       
@@ -397,14 +497,20 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <pubDate>2023-10-17T17:40:01+09:00</pubDate>
       
       
       
+      
+    
     
     
     
     </item>
+    
+    
     
     
     
@@ -418,6 +524,8 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <title>令和AI、Pythonリモートインタプリタ製品『SnippetRunner』を提供開始</title>
       
       
@@ -425,7 +533,11 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000003.000127932.html</link>
+      
+      
       
       
       
@@ -441,10 +553,14 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
       
       
       
+      
+      
       <pubDate>2023-10-16T10:40:02+09:00</pubDate>
       
       
       
+      
+    
     
     
     
@@ -452,16 +568,24 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
     
     
     
+    
   
   
     
+    
     <item>
+      
+      
       
       
       <title>総務省統計局主催 データサイエンス・オンライン講座</title>
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000068.000006897.html</link>
+      
+      
       
       
       <description>[ネットラーニング]
@@ -470,19 +594,31 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
 デジタル社会の実現に向けて、データやデジタル技術の活用、DXの促進に向けた取組が進められている中、すべての社会人が「...</description>
       
       
+      
+      
       <pubDate>2023-10-17T14:30:00+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>【10/24(火)無料ウェビナー開催】脱”固定”ワークスタイルへの挑戦 ～紙・電話・属人化から解放される新時代のDX活用～</title>
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000083.000034282.html</link>
+      
+      
       
       
       <description>[トビラシステムズ株式会社]
@@ -494,19 +630,31 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
 オ...</description>
       
       
+      
+      
       <pubDate>2023-10-17T14:12:05+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>WHITEが山口県萩市の「萩IT松下村塾」に向けて、”生成AIでプログラミング” する IT人材育成セミナーを高校生らへ提供</title>
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000037.000029909.html</link>
+      
+      
       
       
       <description>[WHITE株式会社]
@@ -516,19 +664,31 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
 萩市では2015年から情報通信環境とICTを活用することで、企業と人材の流入を促し、雇用の場の...</description>
       
       
+      
+      
       <pubDate>2023-10-17T18:40:03+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>フコク生命のファンコミュニティ「THE MUTUAL⁺」が開設２周年～全自動ファシリテーター機能搭載の生成AIを導入～</title>
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000107.000023406.html</link>
+      
+      
       
       
       <description>[クオン株式会社]
@@ -539,19 +699,31 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
 「THE MUTUAL⁺」は、2023...</description>
       
       
+      
+      
       <pubDate>2023-10-17T18:40:03+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>【10月24日(火)】株式会社サムシングファン×H&amp;amp;Kの共催ウェビナー「次世代ビジネスの鍵:動画DXとプロセスの進化」を開催（無料）</title>
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000207.000072302.html</link>
+      
+      
       
       
       <description>[H&amp;amp;K]
@@ -561,19 +733,31 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
 2023年10月24日（火）14:00～15:00でZOOMにて「次世代ビジネスの鍵:動画DXとプロセスの進化」について...</description>
       
       
+      
+      
       <pubDate>2023-10-05T18:40:01+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>ACES ChatHubにおいて自社データを連携し様々な業務に活用する「独自データ参照機能」の提供開始</title>
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000074.000044470.html</link>
+      
+      
       
       
       <description>[株式会社ACES]
@@ -583,19 +767,31 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
 ACESは、2023年6月より入力した情報が学習に利用されることなくChatGPTをセキュアな環境でご利用いただける法人向...</description>
       
       
+      
+      
       <pubDate>2023-10-17T18:40:03+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>【海外AIスタートアップ105社現地レポート】シリコンバレー最大級のテックカンファレンス「TechCrunch Disrupt」から見る、最新AIスタートアップレポートを販売</title>
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000005.000111004.html</link>
+      
+      
       
       
       <description>[合同会社NeurotechJP]
@@ -604,19 +800,31 @@ OpenAIによるChatGPTの登場以降、AIへの注目度は止まるところ�
 そんな中、スタートアップ/テ...</description>
       
       
+      
+      
       <pubDate>2023-10-05T17:40:01+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>want.jpとneoAI、生成AIを活用した商品紹介情報の自動生成システム開発プロジェクトを実施</title>
       
       
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000011.000109048.html</link>
+      
+      
       
       
       <description>[株式会社neoAI]
@@ -626,56 +834,116 @@ OpenAIによるChatGPTの登場以降、AIへの注目度は止まるところ�
 　neoAIが提供する大規模言語モデル（LLM）活用パッケージ「neoLLMモジュール」を用いて、want.jpが...</description>
       
       
+      
+      
       <pubDate>2023-10-05T19:40:01+09:00</pubDate>
       
+      
+    
     
     </item>
     
+    
   
+    
     <item>
+      
+      
       <title>【福岡開催・デモ展示・参加費無料】”現場DX”リアルセミナー開催のお知らせ</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000002.000130496.html</link>
+      
+      
       <description>[西部電気工業株式会社]
 [画像: https://prtimes.jp/i/130496/2/resize/d130496-2-83ad1edca8d83f0a73fd-0.jpg ]
 
 【開催概要】
 　■名称　 ：製造業　まずは始める”現場DX”セミナー　
 　■日時　 ：2023年11月17日（金）   ・セミナー：15...</description>
+      
+      
       <pubDate>2023-10-17T19:15:03+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>ドローン、ChatGPT、3Dモデルのデジタルを体験できる子ども向けイベント「DKC1日体験」を 愛媛県松山市で開催へ。</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000001.000131265.html</link>
+      
+      
       <description>[一般社団法人Digital Kids Club]
 [画像1: https://prtimes.jp/i/131265/1/resize/d131265-1-285a20100fcf705fb9b9-0.png ]
 
 
 Digital Kids Clubとは、IT教育やプログラミング教育を強制するのではなく、子どもの内から湧き出る探究心や興味関心な...</description>
+      
+      
       <pubDate>2023-10-16T10:40:02+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>バーチャレクス、コールセンター/CRM デモ＆コンファレンス2023 in 東京に出展</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000091.000000699.html</link>
+      
+      
       <description>[バーチャレクス・コンサルティング株式会社]
 [画像: https://prtimes.jp/i/699/91/resize/d699-91-a1378208958752dd1653-0.jpg ]
 
 　近年、採用難や人材不足の問題が深刻化する中、その解決策のひとつとして、コールセンター業界でもDX推進の必要性に迫られ...</description>
+      
+      
       <pubDate>2023-10-17T19:40:02+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>電話代行サービス「fondesk」、10月26日開催オンラインセミナー『成長し続ける社労士事務所が選ぶ売上げアップのヒケツ5選』を開催！</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000191.000049287.html</link>
+      
+      
       <description>[株式会社うるる]
 [画像1: https://prtimes.jp/i/49287/191/resize/d49287-191-dfe680ac76a42c9eddb7-0.png ]
 
 【セミナー概要ページ：https://cr.fondesk.jp/p/seminar/20231026】
 
 近年、ビジネス環境は急速に変化し、DXによる業...</description>
+      
+      
       <pubDate>2023-10-17T19:40:02+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>営業DX・B2Bマーケ支援の(株)FLUED、米国EvolveBPM社のリードジェネレーション支援サービス取扱開始　～世界6拠点、6言語に対応～</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000025.000072051.html</link>
+      
+      
       <description>[株式会社FLUED]
 [画像: https://prtimes.jp/i/72051/25/resize/d72051-25-4020c9b45d9f726d98b6-0.jpg ]
 
@@ -683,12 +951,51 @@ B2B企業のグローバル展開を支援
 
 
 グローバル展開を進めるうえで、効率的なリードジェネレーションは重要なポイントです...</description>
+      
+      
       <pubDate>2023-10-17T19:15:03+09:00</pubDate>
+      
+    
+    </item>
+    
+  
+    <item>
+      <title>管理画面開発ローコード『クエリア』が無料プランの提供を開始</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000016.000061798.html</link>
+      <description>[クエリア]
+[画像: https://prtimes.jp/i/61798/16/resize/d61798-16-435d738a42c703e822c4-0.png ]
+
+■ クエリアが無料プランとセルフサインアップを開始する背景 ノーコード・ローコードやGPTの出現により、業務効率化への...</description>
+      <pubDate>2023-10-16T12:15:03+09:00</pubDate>
+    </item>
+    <item>
+      <title>新時代の旅行プランニング！ChatGPT技術で瞬時に最適プランをデザイン。</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000007.000078113.html</link>
+      <description>[合同会社micce]
+[画像: https://prtimes.jp/i/78113/7/resize/d78113-7-3d23205132c35b8e9579-0.png ]
+
+ミッケアプリに行きたい場所を登録し、あとは旅行の基本情報（何泊何日、移動手段）を入力するだけ。わずか1分で理想の旅行...</description>
+      <pubDate>2023-10-16T13:15:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>Ubie、生成AIを活用した初の機能を医療機関向け「ユビーメディカルナビ」で提供開始</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000063.000048083.html</link>
+      <description>[Ubie株式会社]
+
+[画像1: https://prtimes.jp/i/48083/63/resize/d48083-63-b14d8fa3bb4a22116f5b-2.jpg ]
+
+
+◼︎ユビーメディカルナビについて
+
+ユビーメディカルナビは、医療機関の業務効率化を支えるAI問診サービスです。紙の問...</description>
+      <pubDate>2023-10-16T14:45:02+09:00</pubDate>
     </item>
   </channel>
   
   
   
+  
+
 
 
 
