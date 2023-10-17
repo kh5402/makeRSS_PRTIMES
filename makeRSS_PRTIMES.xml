@@ -1,41 +1,93 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
+  
+  
   <channel>
+    
+    
     <title>PR TIMESの特定のキーワードを含むRSS</title>
+    
+    
     <description>PR TIMESから特定のキーワードを含む記事を提供します。</description>
+    
+    
     <link>https://example.com</link>
+    
+    
     <item>
+      
+      
       <title>「広告主」から「媒体社」への案件相談が急増！メディアレーダーでDX化が加速</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000248.000005365.html</link>
+      
+      
       <description>[株式会社アイズ]
 [画像1: https://prtimes.jp/i/5365/248/resize/d5365-248-a573da428d430e788e1d-5.png ]
 
 
 メディアレーダーは、サイト上でプロモーション施策の提案募集を行い、複数の媒体社から提案を受けられる「案件マッチ...</description>
+      
+      
       <pubDate>2023-10-07T23:40:01+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>ABEJA、LLMを実用的に活用しDXを推進する人材を育成するプログラム 「ABEJA LLM Business Camp」の第二回を11月21日（火）・28日（火）に開催</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000143.000010628.html</link>
+      
+      
       <description>[ABEJA]
 [画像1: https://prtimes.jp/i/10628/143/resize/d10628-143-6b481ba8b20c9b81a178-0.jpg ]
 
 　人とAIの協調により「ゆたかな世界を、実装する」株式会社ABEJA（本社：東京都港区、代表取締役CEO：岡田 陽介、以...</description>
+      
+      
       <pubDate>2023-10-16T17:45:02+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>生成AIスキルを集中習得！３時間でキャリアが変わる【1DAY AI BOOT CAMP】始動！</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000019.000117465.html</link>
+      
+      
       <description>[Cynthialy株式会社]
 「まずは生成AIスキルを数時間で習得したい」
 という声を多くいただき、この度【1DAY AI BOOT CAMP】を開催する運びとなりました。
 
 未来のキャリアプランに不安を抱える会社員やフリーランスに向けて、私たちはA...</description>
+      
+      
       <pubDate>2023-10-17T13:27:16+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>カミナシ、「名古屋 Factory Innovation Week 2023」に出展</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000078.000054269.html</link>
+      
+      
       <description>[株式会社カミナシ]
 [画像: https://prtimes.jp/i/54269/78/resize/d54269-78-40ecdebb2b5a41ae99b2-0.png ]
 
@@ -43,11 +95,23 @@
 
 
 　「名古屋 Factory Innovation Week 2023」は、製造の「デジタル化」を実現する「スマート工場 EXPO」、「自動化...</description>
+      
+      
       <pubDate>2023-10-17T13:20:00+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>ChatGPTの爆発的進化！学習塾から大学入試まで、広がるAI活用と教育変化を解説【オンラインラーニングフォーラム2023】</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000137.000004142.html</link>
+      
+      
       <description>[一般社団法人日本オンライン教育産業協会]
 [画像: https://prtimes.jp/i/4142/137/resize/d4142-137-8e83ffe230c62db7c7e8-0.jpg ]
 
@@ -56,11 +120,23 @@ AIによる劇的変化に対応するための具体的な方法
 
 
 ◆『ChatGPTの爆発的進化　教育界にも大きな変化　メタバースがどのよ...</description>
+      
+      
       <pubDate>2023-10-17T16:15:02+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>【10月25日（水）～27日（金） 開催】AI×DXで切り開く開発の新時代、株式会社divxがJapan IT Week 秋に出展。企業や自治体が抱えるDX課題の即時相談会を実施。</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000042.000099905.html</link>
+      
+      
       <description>[DIVX]
 [画像: https://prtimes.jp/i/99905/42/resize/d99905-42-31029a646b9230627c8e-0.png ]
 
@@ -69,11 +145,23 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
 
 
 開発課題へのアプローチと...</description>
+      
+      
       <pubDate>2023-10-17T13:00:00+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>物流センターの自動化に向けた取り組み　東大阪ロジスティクスセンターで「ラピュタPA-AMR XL」導入・稼働開始</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000001440.000031422.html</link>
+      
+      
       <description>[株式会社ハピネット]
 [画像1: https://prtimes.jp/i/31422/1440/resize/d31422-1440-24a7033b7f5a37d9aa68-0.jpg ]
 
@@ -81,25 +169,57 @@ https://www.japan-it.jp/autumn/ja-jp/visit.html
 
 
 物流業界では働き手不足が顕著であり、特に物流倉庫・テナントが集中するエリアでは、安定した労働力...</description>
+      
+      
       <pubDate>2023-10-17T13:00:00+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>かんぽ生命、法人向け生成AI活用プラットフォーム「Graffer AI Studio」を導入</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000051.000038525.html</link>
+      
+      
       <description>[株式会社グラファー]
 [画像: https://prtimes.jp/i/38525/51/resize/d38525-51-f3022b348f233ce9bd97-0.png ]
 
 導入の背景
 かんぽ生命は、「いつでもそばにいる。どこにいても支える。すべての人生を、守り続けたい。」という経営理念...</description>
+      
+      
       <pubDate>2023-10-17T17:40:01+09:00</pubDate>
+      
+    
     </item>
+    
+    
     <item>
+      
+      
       <title>令和AI、Pythonリモートインタプリタ製品『SnippetRunner』を提供開始</title>
+      
+      
       <link>https://prtimes.jp/main/html/rd/p/000000003.000127932.html</link>
+      
+      
       <description>[株式会社令和AI]
 ■ LLM生成コードの安全な実行環境
 　現在、ChatGPTを初めとするチャットAIに、プログラムのソースコードを出力させて、そのコードの実行結果をチャットの返答として利用することで、LLM特有の幻覚（ハルシネーシ...</description>
+      
+      
       <pubDate>2023-10-16T10:40:02+09:00</pubDate>
+      
+    
     </item>
+    
+  
   </channel>
+  
+
 </rss>
