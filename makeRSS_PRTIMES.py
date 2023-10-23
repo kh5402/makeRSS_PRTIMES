@@ -5,7 +5,7 @@ from xml.dom import minidom
 import os
 
 def main():
-    output_file = "makeRSS_PRTIMES.xml"
+    output_file = "makeRSS_PRTIMES_AI.xml"
     feed = {
         "url": "https://prtimes.jp/index.rdf",
         "includeWords": ["生成AI", "ChatGPT", "DX", "自動化", "RPA", "ノーコード", "ローコード"]
