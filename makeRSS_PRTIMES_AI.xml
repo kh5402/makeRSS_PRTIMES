@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>PR TIMESの特定のキーワードを含むRSS</title>
+    <description>PR TIMESから特定のキーワードを含む記事を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>愛知県知多市が電子契約サービス「GMOサイン」を導入決定【GMOグローバルサイン・HD】</title>
+      <link>https://prtimes.jp/main/html/rd/p/000004183.000000136.html</link>
+      <description>[GMOインターネットグループ]
+[画像1: https://prtimes.jp/i/136/4183/resize/d136-4183-b2218aea26a9ab9e4c46-0.png ]
+　GMOグローバルサイン・HDは、今後も自治体と事業者のDXを推進するとともに、自治体の業務効率化やペーパーレス化を通...</description>
+      <pubDate>2023-10-23T11:15:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>【いよいよ今週開催！】 生成AI・Web3などを見て、試して、比較できる展示会を１０/２５(水）より3日間 幕張メッセにて開催</title>
+      <link>https://prtimes.jp/main/html/rd/p/000001203.000026157.html</link>
+      <description>[RX Japan株式会社]
+[画像1: https://prtimes.jp/i/26157/1203/resize/d26157-1203-37f1c34c56d07398ac96-0.jpg ]
+春のG7広島サミットでも議論された「生成AI」。AIをはじめとするIT関連の最新技術は、世界中あらゆる分野で競争と覇...</description>
+      <pubDate>2023-10-23T12:15:03+09:00</pubDate>
+    </item>
+    <item>
+      <title>スマートカートシステム「Skip Cart(R)」の本格外販展開開始について</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000003.000108530.html</link>
+      <description>[株式会社Retail AI ]
+株式会社Retail AI（本社：東京都港区、代表取締役CEO：永田 洋幸、以下「Retail AI」）は、長年の流通現場における知見と最新のIT技術を融合させた「SMART STORE TECHNOLOGY(R)」により、流通業界のDX化を推進し...</description>
+      <pubDate>2023-10-23T12:45:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>【開催報告】株式会社アクシス 岩手医科大学薬学部で「医療DX」に関する実験講座を開講</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000098.000059165.html</link>
+      <description>[株式会社アクシス]
+「医療DX」が求められる背景
+昨今の医薬業界においては、電子処方箋の導入を皮切りに、医療情報等を統合する全国医療情報プラットフォームの導入、パーソナルヘルスレコードの活用など医療機関におけるDXが進み...</description>
+      <pubDate>2023-10-23T12:00:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>SBテクノロジー、日々の業務で活用できる生成AIサービス「DailyAI」を提供開始</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000563.000007357.html</link>
+      <description>[SBテクノロジー]
+[画像1: https://prtimes.jp/i/7357/563/resize/d7357-563-1cf5280faa260515f4b1-0.png ]
+■背景
+ChatGPTの登場によって、人々の生活やビジネスにおいて生成AIの利用が瞬く間に広がっています。世界全体における...</description>
+      <pubDate>2023-10-23T13:15:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>AOSデータ社、「ビューティーテック×AI/DXフォーラム」開催～AIがあなたの美しさをデザインする～最新美容とウェルネスDX事例～</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000315.000040956.html</link>
+      <description>[AOSデータ株式会社]
+先端 AR ＆ AIが実現する最新肌診断と、サウナツーリズムを支えるソリューション事例
+Beauty Tech（ビューティーテック）とは、Beauty（美容）とTechnology（技術）を組み合わせた言葉で、最新の技術やデジタルソ...</description>
+      <pubDate>2023-10-20T16:40:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>対話型AIを効率的に開発するノウハウが凝縮！『LangChain完全入門　生成AIアプリケーション開発がはかどる大規模言語モデルの操り方』を10月24日（火）に発売</title>
+      <link>https://prtimes.jp/main/html/rd/p/000005519.000005875.html</link>
+      <description>[株式会社インプレスホールディングス]
+[画像1: https://prtimes.jp/i/5875/5519/resize/d5875-5519-15a2061be756913c0aa4-0.jpg ]
+■大注目！大規模言語モデルのライブラリ“LangChain”の解説書
+LangChain（ラングチェーン）はPythonやTypeScriptのライ...</description>
+      <pubDate>2023-10-23T11:15:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>川崎重工・スターテクノの２社が新たに「Remolink Partners」に参画</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000013.000093209.html</link>
+      <description>[リモートロボティクス株式会社]
+ロボットを活用した完全自動化システムの構築・納入経験の豊かな以下2社は、人手不足である一方、完全自動化が困難な工程を持つ事業者の皆様に対し、リモートロボットシステムの開発・納入とロボットを介した新た...</description>
+      <pubDate>2023-10-23T13:15:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>【生成AIをフル活用した最先端の授業・メディア参加可】東京・日本橋の三井塾で、公開体験授業の開催予定を発表</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000021.000079497.html</link>
+      <description>[株式会社みんがく]
+[画像1: https://prtimes.jp/i/79497/21/resize/d79497-21-4aa2e04463cc659a8681-9.png ]
+ChatGPTやその他の生成AIの急速な進展を受け、その適切な教育現場での活用は、今や重要な課題となりつつあります。2023...</description>
+      <pubDate>2023-10-23T13:15:02+09:00</pubDate>
+    </item>
+  </channel>
+</rss>
