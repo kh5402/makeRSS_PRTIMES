@@ -4,12 +4,10 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import os
 
-def main():
-    output_file = "makeRSS_PRTIMES_AI.xml"
-    feed = {
-        "url": "https://prtimes.jp/index.rdf",
-        "includeWords": ["生成AI", "ChatGPT", "DX", "自動化", "RPA", "ノーコード", "ローコード"]
-    }
+def fetch_and_update_feed(feed):
+    url = feed["url"]
+    includeWords = feed["includeWords"]
+    output_file = feed["output_file"]
     
     # 既存のRSSフィードを読み込む
     existing_links = set()
@@ -21,14 +19,12 @@ def main():
     else:
         root = ET.Element("rss", version="2.0")
         channel = ET.SubElement(root, "channel")
-        title = "PR TIMESの特定のキーワードを含むRSS"
-        description = "PR TIMESから特定のキーワードを含む記事を提供します。"
+        title = f"{output_file}の特定のキーワードを含むRSS"
+        description = f"{url}から特定のキーワードを含む記事を提供します。"
         ET.SubElement(channel, "title").text = title
         ET.SubElement(channel, "description").text = description
-        ET.SubElement(channel, "link").text = "https://example.com"
+        ET.SubElement(channel, "link").text = url
         
-    url = feed["url"]
-    includeWords = feed["includeWords"]
     response = requests.get(url)
     rss_content = response.text
     
@@ -44,14 +40,14 @@ def main():
             continue
         
         description = re.search(r"<description>([\s\S]*?)<\/description>", item).group(1)
-        date = re.search(r"<dc:date>(.*?)<\/dc:date>", item).group(1)  # ここを変更したで！
+        date = re.search(r"<dc:date>(.*?)<\/dc:date>", item).group(1)
         
         if any(word in title or word in description for word in includeWords):
             new_item = ET.SubElement(channel, "item")
             ET.SubElement(new_item, "title").text = title
             ET.SubElement(new_item, "link").text = link
             ET.SubElement(new_item, "description").text = description
-            ET.SubElement(new_item, "pubDate").text = date  # ここも変更したで！
+            ET.SubElement(new_item, "pubDate").text = date
 
     xml_str = ET.tostring(root)
     # 不正なXML文字を取り除く
@@ -63,6 +59,23 @@ def main():
 
     with open(output_file, "w") as f:
         f.write(xml_pretty_str)
+
+def main():
+    feeds = [
+        {
+            "url": "https://prtimes.jp/index.rdf",
+            "includeWords": ["生成AI", "ChatGPT", "DX", "自動化", "RPA", "ノーコード", "ローコード"],
+            "output_file": "makeRSS_PRTIMES_AI.xml"
+        },
+        {
+            "url": "https://prtimes.jp/index.rdf",
+            "includeWords": ["BPaaS"],
+            "output_file": "makeRSS_PRTIMES_BPaaS.xml"
+        },
+    ]
+    
+    for feed in feeds:
+        fetch_and_update_feed(feed)
 
 if __name__ == "__main__":
     main()
