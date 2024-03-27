@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>makeRSS_PRTIMES_BPaaS.xmlの特定のキーワードを含むRSS</title>
+    <description>https://prtimes.jp/index.rdfから特定のキーワードを含む記事を提供します。</description>
+    <link>https://prtimes.jp/index.rdf</link>
+  </channel>
+</rss>
